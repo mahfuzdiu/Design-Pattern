@@ -23,8 +23,8 @@ Class Gpu implements Product
 
 
 
-// subclasses are responsible to create the instance of the class
-// In simple word instance of a class will be made (based on condition, individually) given by user and the intence of the class will be returned
+// subclasses are responsible for creating the instance of the class
+// In simple word instance of a class will be made (based on condition, individually) given by user and the instance of the class will be returned
 // so user have the access of Monitor , Gpu instances
 
 // again the most important thing here is we are returning the objects from factory to user class
